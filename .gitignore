@@ -23,5 +23,5 @@ npm-debug.log
 .vscode
 *.log
 *.stackdump
-wwwroot/app/**/*.js
-wwwroot/app/**/*.map
+**/app/**/*.js
+**/app/**/*.map
